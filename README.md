@@ -16,4 +16,4 @@
 # Game can be restarted if crashed and live scoring will restart from 0.
 # User can quit the game at any point by closing the game board or by pausing and quit.
 # Game is having start and play sound along with crash sound.
-# Game can be started/paused/unpaused/replay by the keyboard key spacebar also.
+# Game can be started/paused/unpaused/replay by the keyboard key spacebar also
